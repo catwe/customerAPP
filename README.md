@@ -1,5 +1,3 @@
-# 行业销售情报 · 下载
+# Releases
 
-请在右侧 **Releases** 下载最新的 `DahuaIntel-Setup-<版本>-x64.exe`，双击安装。
-
-已安装的电脑启动时会自动检查并提示更新。本仓库只存放安装包，不含源码和任何客户数据。
+Download the latest installer from the Releases page.
